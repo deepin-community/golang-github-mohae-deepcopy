@@ -1,5 +1,25 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-mohae-deepcopy (0.0~git20170929.c48cc78-4) unstable; urgency=medium
 
-  * Initial release
+  * Team upload
+  * Add tzdata to Build-Depends (Closes: #1027369)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Shengjing Zhu <zhsj@debian.org>  Sat, 07 Jan 2023 16:00:35 +0800
+
+golang-github-mohae-deepcopy (0.0~git20170929.c48cc78-3) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Add Multi-Arch: foreign.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sat, 26 Nov 2022 13:04:51 +0000
+
+golang-github-mohae-deepcopy (0.0~git20170929.c48cc78-2) unstable; urgency=medium
+
+  * Source-only upload for testing eligibility.
+
+ -- Cyril Brulebois <cyril@debamax.com>  Thu, 07 Jan 2021 14:07:58 +0000
+
+golang-github-mohae-deepcopy (0.0~git20170929.c48cc78-1) unstable; urgency=medium
+
+  * Initial release (Closes: #978037).
+
+ -- Cyril Brulebois <cyril@debamax.com>  Thu, 24 Dec 2020 21:37:19 +0000
